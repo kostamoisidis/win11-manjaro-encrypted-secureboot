@@ -34,7 +34,7 @@ By the end of this guide, you'll have a fully secure and encrypted dual-boot sys
    - Insert your **Windows 11 USB** and reboot your system. Select the USB drive from the BIOS boot menu.
 
 2. **Prepare the installation disk**  
-   - When you reach the disk selection screen, press `Shift + F10` to open the command prompt. Then type ````` to launch the disk partition tool.
+   - When you reach the disk selection screen, press `Shift + F10` to open the command prompt. Then type `diskpart` to launch the disk partition tool.
 
 3. **Create Partitions**  
    In cmd, run the following commands to prepare your disk:
